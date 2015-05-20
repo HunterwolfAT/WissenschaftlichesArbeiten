@@ -1,0 +1,19 @@
+body {
+	background: white;
+	font-size: 12pt;
+	}
+	
+.mainnavigation, .advanced, .header, .colm-R, .mainmenu, .searchbox, .footer, .sharetools {
+	display: none;
+	}
+	
+.colm-L {
+	width: auto; 
+	margin: 0 5%;
+	padding: 0; 
+	border: 0;
+	float: none !important;
+	color: black; 
+	background: transparent;
+	}
+	

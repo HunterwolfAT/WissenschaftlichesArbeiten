@@ -1,0 +1,54 @@
+\documentclass[10pt]{report}
+
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+
+
+\begin{document}
+\title{Einführung in das wissenschaftliche Arbeiten mit \LaTeX}
+\author{Maximilian Sieß}
+\maketitle
+
+\tableofcontents
+
+\chapter{First Chapter}
+
+	\section{First Section}
+
+	\section{Second Section}
+	
+		\subsection{First Subsection of the second section}
+
+			\subparagraph{Subparagraph}
+
+	\section{Third Section}
+	
+	\begin{enumerate}
+		\item Eins
+		\begin{itemize}
+			\item Lorem
+			\item \textbf{Ipsum}
+		\end{itemize}
+		\item Zwei
+		\begin{description}
+			\item[(a)] Dolor\footnote{And here is the footnote.}
+		\end{description}
+	\end{enumerate}
+	
+	\section{Another Section}
+	
+	\begin{center}
+  		\begin{tabular}{ || r  c  l  || }
+ 		   \hline
+    		\textbf{Number} & \textbf{Date} & \textbf{Timestamp} \\ \hline
+    		1 & Mar 10 & 10:00 \\ \hline
+    		2 & Apr 15 & 13:00 \\ \hline
+    		3 & Jun 6 & 11:00 \\
+    		\hline
+  		\end{tabular}
+  		
+%  	\includegraphics[scale=0.3]{image}
+	\end{center}
+	
+
+\end{document}

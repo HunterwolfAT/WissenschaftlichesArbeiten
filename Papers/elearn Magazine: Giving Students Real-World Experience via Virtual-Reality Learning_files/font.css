@@ -1,0 +1,138 @@
+body, td {
+	font:13px Arial, Helvetica, sans-serif;color:#585858}
+	
+#signinpopup td {
+	font-size: 12px;
+}
+#signinpopup h2 {
+  font:bold 25px 'Montserrat', sans-serif;
+}
+a{
+	color:#22b7e8;text-decoration:none}
+	
+	
+.searchterms{
+	font-size:11px;
+	font-family:Arial;
+  color:#fff}
+
+
+.imgright{
+	float:right;border:1px solid #d0b855;margin:4px 13px 0 0}	
+.imgleft{
+	float:left;border:1px solid #353637;margin:5px 8px 5px 0}
+
+h5 em {
+  font-style:normal;
+  font-size:11px;
+  text-transform:uppercase;
+}	
+
+
+.mainheading-flex{
+	font:bold 25px 'Montserrat', sans-serif;margin:0;}
+	
+.mainheading{
+  font-family:'Montserrat', sans-serif;
+  font-size:20px;
+  color:#2377ba;
+ 
+}
+.topstory, .feateredheading, .inner.innerwide .mainheading{
+	font-weight:bold;
+	font-size:11px;
+	color:#fff;
+	line-height:40px;
+	padding:0 0 0 10px;
+	background-color:#2377ba;
+	margin:0;
+	text-transform:uppercase;
+}
+.inner.innerwide .mainheading{
+	font-family:Arial, sans-serif;
+	margin: 0 -10px;
+
+	}
+
+.mainheading .instapaper_title {
+  font-size:25px;
+  line-height:30px;
+}
+
+.mainheading .smallermainheading {
+	font-size: 20px;
+	line-height:23px;
+}
+.headline, .headline a{
+	font:normal 20px 'Montserrat', sans-serif;color:#fff;margin:0}
+	
+.feateredheading{
+	margin: -10px -10px 0;
+	}
+
+.list{
+	margin:0;padding:0}	
+
+.listpad {
+	padding-bottom: 10px;
+}
+
+.yearhead {
+	font:bold 20px 'Montserrat', sans-serif;color:#400000;
+	padding-bottom: 8px; padding-top: 8px;
+} 
+
+.signin-box a:hover {
+  color:#585858;
+}
+.more, .signin-box a {
+  text-transform:uppercase;
+  font-weight:bold;
+  font-size:11px;
+}
+.more:after, /*#form-emailsignup .simpletext:after,*/ .box p a:after{
+  content:' \2192';
+  font-size:11px;
+  font-weight:bold;
+  vertical-align:top;
+}
+	
+.title, .title a{
+	font:normal 18px 'Montserrat', sans-serif;color:#2377ba;margin:0;padding:0}
+	
+.author{
+	font-size: 11px;
+	font-weight:bold;
+	text-transform:uppercase;margin:0px 0 5px 0!important;padding:0;
+	color:#585858;
+	}
+	
+.subscribe{
+	color:#2468ad}
+		
+.email{
+	font:bold 16px 'Montserrat', sans-serif;color:#2377ba;margin:10px 0 5px 0}
+.sideheading{
+	color:#546f6b;font:bold	11px arial;margin:0;padding:0}
+.follow{
+	color:#546f6b;font:bold	11px arial;margin:0;padding:0}
+.graytext {
+	color: #b7b29f; font-size:11px;line-height:28px
+}
+.graytextupper {
+	color: #b7b29f; font:11px arial;margin: 0 0 3px;padding:0; text-transform: uppercase;
+}
+
+.articleteaser {
+	text-transform:uppercase;
+	font-size:12px;
+}
+
+.sociallinks a img {
+	border: none;
+	/*border-radius: 4px;*/
+}
+
+.colm-R .social {
+margin-bottom: 10px;
+}
