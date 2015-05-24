@@ -1,13 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.4.30)  21 MAY 2015 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.20)  24 MAY 2015 21:34
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**\nonstopmode \input ./virtualreality.tex
-(./virtualreality.tex (/usr/share/texmf-dist/tex/latex/base/report.cls
+**virtualreality.tex
+(./virtualreality.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -357,9 +359,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./virtualreality.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <10.95> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `virtualreality.toc'.
@@ -375,7 +375,7 @@ Chapter 2.
 <or_small.png, id=17, 711.65875pt x 514.92375pt>
 File: or_small.png Graphic file (type png)
  <use or_small.png>
-Package pdftex.def Info: or_small.png used on input line 23.
+Package pdftex.def Info: or_small.png used on input line 22.
 (pdftex.def)             Requested size: 213.49927pt x 154.4783pt.
  [3
 
@@ -385,236 +385,33 @@ Chapter 3.
 
 ]
 Chapter 4.
-(./virtualreality.bbl)
+(./virtualreality.bbl [6
 
-./virtualreality.tex:66: LaTeX Error: Lonely \item--perhaps a missing list envi
-ronment.
+]) [7
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.66 	\bibitem{zyda05}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./virtualreality.tex:66: Undefined control sequence.
-<argument> \@listctr 
-                     
-l.66 	\bibitem{zyda05}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./virtualreality.tex:66: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.66 	\bibitem{zyda05}
-                      
-I'm forgetting what you said and using zero instead.
-
-
-./virtualreality.tex:72: LaTeX Error: Lonely \item--perhaps a missing list envi
-ronment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72   	\bibitem{bailey14}
-                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./virtualreality.tex:72: Undefined control sequence.
-<argument> \@listctr 
-                     
-l.72   	\bibitem{bailey14}
-                          
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./virtualreality.tex:72: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.72   	\bibitem{bailey14}
-                          
-I'm forgetting what you said and using zero instead.
-
-
-./virtualreality.tex:78: LaTeX Error: Lonely \item--perhaps a missing list envi
-ronment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.78   	\bibitem{ruddle13}
-                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./virtualreality.tex:78: Undefined control sequence.
-<argument> \@listctr 
-                     
-l.78   	\bibitem{ruddle13}
-                          
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./virtualreality.tex:78: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.78   	\bibitem{ruddle13}
-                          
-I'm forgetting what you said and using zero instead.
-
-
-./virtualreality.tex:84: LaTeX Error: Lonely \item--perhaps a missing list envi
-ronment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.84   	\bibitem{leck13}
-                        
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./virtualreality.tex:84: Undefined control sequence.
-<argument> \@listctr 
-                     
-l.84   	\bibitem{leck13}
-                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./virtualreality.tex:84: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.84   	\bibitem{leck13}
-                        
-I'm forgetting what you said and using zero instead.
-
-./virtualreality.tex:89: Undefined control sequence.
-<recently read> \hyperlink 
-                           
-l.89   	\hyperlink
-                  {http://elearnmag.acm.org/archive.cfm?aid=2484903}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./virtualreality.tex:91: LaTeX Error: Lonely \item--perhaps a missing list envi
-ronment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91   	\bibitem{satava02}
-                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./virtualreality.tex:91: Undefined control sequence.
-<argument> \@listctr 
-                     
-l.91   	\bibitem{satava02}
-                          
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./virtualreality.tex:91: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.91   	\bibitem{satava02}
-                          
-I'm forgetting what you said and using zero instead.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
-(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
-
-
-./virtualreality.tex:99: LaTeX Error: Lonely \item--perhaps a missing list envi
-ronment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 	\bibitem{beltran13}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./virtualreality.tex:99: Undefined control sequence.
-<argument> \@listctr 
-                     
-l.99 	\bibitem{beltran13}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./virtualreality.tex:99: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.99 	\bibitem{beltran13}
-                         
-I'm forgetting what you said and using zero instead.
-
-[6
+]
+Chapter 5.
+[8
 
 ] (./virtualreality.aux) ) 
 Here is how much of TeX's memory you used:
- 1757 strings out of 493109
- 23469 string characters out of 6140856
- 81981 words of memory out of 5000000
- 5206 multiletter control sequences out of 15000+600000
- 9146 words of font info for 32 fonts, out of 8000000 for 9000
+ 1732 strings out of 493109
+ 23149 string characters out of 6140856
+ 81987 words of memory out of 5000000
+ 5184 multiletter control sequences out of 15000+600000
+ 10062 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,23p,736b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,23p,715b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmti10.pfb>
-Output written on virtualreality.pdf (7 pages, 616774 bytes).
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb>
+Output written on virtualreality.pdf (9 pages, 572421 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

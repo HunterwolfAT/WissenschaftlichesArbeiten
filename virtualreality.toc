@@ -1,7 +1,8 @@
 \contentsline {chapter}{\numberline {1}Introduction}{2}
 \contentsline {chapter}{\numberline {2}Related Work}{3}
 \contentsline {section}{\numberline {2.1}Headmounted Display Technology}{3}
-\contentsline {section}{\numberline {2.2}Software}{3}
+\contentsline {section}{\numberline {2.2}Software}{4}
 \contentsline {section}{\numberline {2.3}Additional Hardware}{4}
 \contentsline {chapter}{\numberline {3}Discussion}{5}
 \contentsline {chapter}{\numberline {4}References}{6}
+\contentsline {chapter}{\numberline {5}notes}{8}
