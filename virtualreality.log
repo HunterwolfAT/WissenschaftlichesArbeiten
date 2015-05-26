@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.20)  24 MAY 2015 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.20)  26 MAY 2015 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,7 +359,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./virtualreality.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
+(Font)              <10.95> on input line 2.
 )
 \tf@toc=\write3
 \openout3 = `virtualreality.toc'.
@@ -370,45 +370,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Chapter 1.
 [2
 
-]
+] [3]
 Chapter 2.
-<or_small.png, id=17, 711.65875pt x 514.92375pt>
+<or_small.png, id=21, 711.65875pt x 514.92375pt>
 File: or_small.png Graphic file (type png)
  <use or_small.png>
-Package pdftex.def Info: or_small.png used on input line 22.
+Package pdftex.def Info: or_small.png used on input line 38.
 (pdftex.def)             Requested size: 213.49927pt x 154.4783pt.
- [3
+ [4
 
- <./or_small.png>] [4]
+ <./or_small.png>] [5]
 Chapter 3.
-[5
-
-]
-Chapter 4.
 (./virtualreality.bbl [6
 
 ]) [7
 
 ]
-Chapter 5.
+Chapter 4.
 [8
 
 ] (./virtualreality.aux) ) 
 Here is how much of TeX's memory you used:
- 1732 strings out of 493109
- 23149 string characters out of 6140856
- 81987 words of memory out of 5000000
- 5184 multiletter control sequences out of 15000+600000
- 10062 words of font info for 35 fonts, out of 8000000 for 9000
+ 1738 strings out of 493109
+ 23284 string characters out of 6140856
+ 82002 words of memory out of 5000000
+ 5190 multiletter control sequences out of 15000+600000
+ 10369 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,23p,715b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,23p,716b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
 usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb>
-Output written on virtualreality.pdf (9 pages, 572421 bytes).
+Output written on virtualreality.pdf (9 pages, 584554 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream

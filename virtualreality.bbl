@@ -1,8 +1,38 @@
 \begin{thebibliography}{1}
 
-\bibitem{zyda05}
-Micheal Zyda.
-\newblock From visual simulation to virtual reality.
-\newblock {\em Computer}, 38, September 2005.
+\bibitem{boas13}
+Yuri Antonio Gonçalves~Vilas Boas.
+\newblock Overview of virtual reality technologies.
+\newblock In {\em Interactive Multimedia Conference 2013}.
+
+\bibitem{Brown:2004:GIG:985921.986048}
+Emily Brown and Paul Cairns.
+\newblock A grounded investigation of game immersion.
+\newblock In {\em CHI '04 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA '04, pages 1297--1300, New York, NY, USA, 2004. ACM.
+
+\bibitem{goradia2014review}
+Ishan Goradia, Jheel Doshi, and Lakshmi Kurup.
+\newblock A review paper on oculus rift \& project morpheus.
+\newblock 2014.
+
+\bibitem{minsky1980telepresence}
+Marvin Minsky.
+\newblock Telepresence.
+\newblock 1980.
+
+\bibitem{Patrick:2000:ULP:332040.332479}
+Emilee Patrick, Dennis Cosgrove, Aleksandra Slavkovic, Jennifer~A. Rode, Thom
+  Verratti, and Greg Chiselko.
+\newblock Using a large projection screen as an alternative to head-mounted
+  displays for virtual environments.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '00, pages 478--485, New York, NY, USA, 2000. ACM.
+
+\bibitem{yao2014oculus}
+Richard Yao, Tom Heath, Aaron Davies, Tom Forsyth, Nate Mitchell, and Perry
+  Hoberman.
+\newblock Oculus vr best practices guide.
+\newblock {\em Oculus VR}, 2014.
 
 \end{thebibliography}
