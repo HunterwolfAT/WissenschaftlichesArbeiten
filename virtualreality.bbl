@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{bastiaens14}
+T~Bastiaens, Lincoln~C Wood, and Torsten Reiners.
+\newblock New landscapes and new eyes: The role of virtual world design for
+  supply chain education.
+\newblock {\em Ubiquitous Learning: An International Journal}, 2014.
+
 \bibitem{boas13}
 Yuri Antonio Gonçalves~Vilas Boas.
 \newblock Overview of virtual reality technologies.
@@ -15,6 +21,13 @@ Emily Brown and Paul Cairns.
 Ishan Goradia, Jheel Doshi, and Lakshmi Kurup.
 \newblock A review paper on oculus rift \& project morpheus.
 \newblock 2014.
+
+\bibitem{lorenzini2013serious}
+Cristian Lorenzini, Marcello Carozzino, Chiara Evangelista, Franco Tecchia,
+  Massimo Bergamasco, and Alexandra Angeletaki.
+\newblock Serious games for disseminating the knowledge of ancient manuscripts:
+  a case study.
+\newblock {\em SCIRES-IT}, 3(2):135--142, 2013.
 
 \bibitem{minsky1980telepresence}
 Marvin Minsky.
