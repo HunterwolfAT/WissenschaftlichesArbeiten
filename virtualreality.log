@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.20)  28 MAY 2015 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.20)  28 MAY 2015 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,18 +283,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (./virtualreality.aux)
 \openout1 = `virtualreality.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
  (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
@@ -359,49 +359,37 @@ e
 <images/uibk.pdf, id=1, 38.1425pt x 78.2925pt>
 File: images/uibk.pdf Graphic file (type pdf)
  <use images/uibk.pdf>
-Package pdftex.def Info: images/uibk.pdf used on input line 17.
+Package pdftex.def Info: images/uibk.pdf used on input line 16.
 (pdftex.def)             Requested size: 38.1424pt x 78.2923pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/uibk.pdf>]
-(./virtualreality.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-)
-\tf@toc=\write3
-\openout3 = `virtualreality.toc'.
-
- [1] [2]
-<images/or_small.png, id=19, 711.65875pt x 514.92375pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/uibk.pdf>] [1]
+<images/or_small.png, id=16, 711.65875pt x 514.92375pt>
 File: images/or_small.png Graphic file (type png)
 
 <use images/or_small.png>
-Package pdftex.def Info: images/or_small.png used on input line 74.
+Package pdftex.def Info: images/or_small.png used on input line 76.
 (pdftex.def)             Requested size: 213.49927pt x 154.4783pt.
 
-Overfull \hbox (33.49927pt too wide) in paragraph at lines 74--75
+Overfull \hbox (33.49927pt too wide) in paragraph at lines 76--77
  [] 
  []
 
-[3 <./images/or_small.png>] (./virtualreality.bbl [4] [5]) [6]
+[2 <./images/or_small.png>] [3] (./virtualreality.bbl [4] [5]) [6]
 (./virtualreality.aux) ) 
 Here is how much of TeX's memory you used:
- 1792 strings out of 493109
- 24019 string characters out of 6140856
- 84898 words of memory out of 5000000
- 5239 multiletter control sequences out of 15000+600000
- 8849 words of font info for 31 fonts, out of 8000000 for 9000
+ 1775 strings out of 493109
+ 23837 string characters out of 6140856
+ 84910 words of memory out of 5000000
+ 5231 multiletter control sequences out of 15000+600000
+ 6410 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,23p,567b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,23p,870b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on virtualreality.pdf (7 pages, 578007 bytes).
+Output written on virtualreality.pdf (7 pages, 577504 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
