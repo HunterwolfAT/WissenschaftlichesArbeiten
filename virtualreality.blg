@@ -6,45 +6,45 @@ Database file #1: vr_bib.bib
 Warning--empty year in boas13
 Warning--empty journal in goradia2014review
 Warning--empty journal in minsky1980telepresence
-You've used 9 entries,
+You've used 11 entries,
             2118 wiz_defined-function locations,
-            545 strings with 5727 characters,
-and the built_in function-call counts, 3117 in all, are:
-= -- 298
-> -- 169
-< -- 2
-+ -- 69
-- -- 58
-* -- 205
-:= -- 524
-add.period$ -- 28
-call.type$ -- 9
-change.case$ -- 56
+            559 strings with 6343 characters,
+and the built_in function-call counts, 4103 in all, are:
+= -- 397
+> -- 225
+< -- 3
++ -- 91
+- -- 78
+* -- 281
+:= -- 681
+add.period$ -- 35
+call.type$ -- 11
+change.case$ -- 72
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 120
-empty$ -- 227
-format.name$ -- 58
-if$ -- 647
+cite$ -- 14
+duplicate$ -- 154
+empty$ -- 295
+format.name$ -- 78
+if$ -- 856
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 8
-newline$ -- 47
-num.names$ -- 18
-pop$ -- 68
+int.to.str$ -- 11
+missing$ -- 10
+newline$ -- 57
+num.names$ -- 22
+pop$ -- 85
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 61
 quote$ -- 0
-skip$ -- 93
+skip$ -- 118
 stack$ -- 0
-substring$ -- 144
-swap$ -- 28
-text.length$ -- 2
+substring$ -- 211
+swap$ -- 40
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 44
 warning$ -- 3
-while$ -- 26
-width$ -- 10
-write$ -- 95
+while$ -- 35
+width$ -- 13
+write$ -- 118
 (There were 3 warnings)

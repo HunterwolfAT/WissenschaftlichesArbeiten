@@ -1,10 +1,15 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{bastiaens14}
 T~Bastiaens, Lincoln~C Wood, and Torsten Reiners.
 \newblock New landscapes and new eyes: The role of virtual world design for
   supply chain education.
 \newblock {\em Ubiquitous Learning: An International Journal}, 2014.
+
+\bibitem{blaha2014diplopia}
+James Blaha and Manish Gupta.
+\newblock Diplopia: A virtual reality game designed to help amblyopics.
+\newblock In {\em Virtual Reality (VR), 2014 iEEE}, pages 163--164. IEEE, 2014.
 
 \bibitem{boas13}
 Yuri Antonio Gonçalves~Vilas Boas.
@@ -21,6 +26,15 @@ Emily Brown and Paul Cairns.
 Ishan Goradia, Jheel Doshi, and Lakshmi Kurup.
 \newblock A review paper on oculus rift \& project morpheus.
 \newblock 2014.
+
+\bibitem{hoffman14}
+Hunter~G Hoffman, Walter~J Meyer~III, Maribel Ramirez, Linda Roberts, Eric~J
+  Seibel, Barbara Atzori, Sam~R Sharar, and David~R Patterson.
+\newblock Feasibility of articulated arm mounted oculus rift virtual reality
+  goggles for adjunctive pain control during occupational therapy in pediatric
+  burn patients.
+\newblock {\em Cyberpsychology, Behavior, and Social Networking},
+  17(6):397--401, 2014.
 
 \bibitem{lorenzini2013serious}
 Cristian Lorenzini, Marcello Carozzino, Chiara Evangelista, Franco Tecchia,

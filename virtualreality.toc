@@ -10,5 +10,4 @@
 \contentsline {subsubsection}{\numberline {3.1.3}Input Devices}{4}
 \contentsline {subsection}{\numberline {3.2}Applications of Virtual Reality}{4}
 \contentsline {section}{\numberline {4}Discussion}{4}
-\contentsline {section}{\numberline {5}Conclusion}{4}
-\contentsline {section}{\numberline {6}notes}{5}
+\contentsline {section}{\numberline {5}Conclusion}{5}
