@@ -3,6 +3,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{wrapfig}
 \usepackage[pdftex]{graphicx}
+\usepackage{geometry}
+\geometry{a4paper, top=30mm, left=27mm, right=27mm}
 
 \newcommand{\whitespace}{\rule{\linewidth}{0.0mm}}
 
@@ -21,19 +23,19 @@
 		Interactive Graphics and Simulation Group
 		%\maketitle
 	
-		\whitespace \\[2.0cm]
+		\whitespace \\[3.0cm]
 		\LARGE \textbf{Virtual Reality}\\
 		\normalsize Einführung in das Wissenschaftliche Arbeiten\\
 		Seminarreport
 	
-		\whitespace \\[0.8cm]
+		\whitespace \\[1.8cm]
 		Maximilian Sieß
 		
-		\whitespace \\[2.0cm]
+		\whitespace \\[3.0cm]
 		advised by\\
 		Prof. Dr. Matthias Harders
 		
-		\whitespace \\[4.0cm]
+		\whitespace \\[5.0cm]
 		Innsbruck, \today
 
 	\end{center}
@@ -70,7 +72,7 @@ Virtual Reality is the attempt to use technology, such as head mounted display d
 	\subsection{Technology}
 	\subsubsection{Head-Mounted Displays}
 	
-	\begin{wrapfigure}{r}{0.5\textwidth}
+	\begin{wrapfigure}{r}{0.55\textwidth}
 		\vspace{-20pt}
 		\begin{center}
 			\includegraphics[scale=0.3]{images/or_small.png}
@@ -93,29 +95,59 @@ Virtual Reality is the attempt to use technology, such as head mounted display d
 		For example, moving the camera without the user moving their head has resulted in severely negative feedback from users. The Oculus Rift Best Practices Manual states that "Acceleration creates a mismatch among your visual, vestibular, and proprioceptive senses; minimize the duration and frequency of such conflicts. Make accelerations as short (preferably instantaneous) and infrequent as you can." \cite{yao2014oculus}
 	
 	\subsubsection{Input Devices}
+	
+	
+	\begin{wrapfigure}{r}{0.5\textwidth}
+		\vspace{-20pt}
+		\begin{center}
+			\includegraphics[scale=0.02]{images/ps_move.jpg}
+		\end{center}			
+		\vspace{-20pt}
+			\caption{A Nintendo Wii motion controller and a Sony Playstation Move controller}
+		\vspace{-10pt}
+	\end{wrapfigure}		
+	
 	With headmounted displays, vision, the groundwork for a feeling of presence in virtual reality, is laid out. Headsets or surround sound systems have been shown to suffice for the audio representation of the virtual environment.\\
-	Moving around naturally has proven difficult, however. While virtual reality demos often use a gamepad, it is less than ideal for upholding a sense of presence. The abstract translation from a analogue stick to moving oneself in virtual space, or interact with one's surroundings, is not very intuitive. \cite{ruddle13} Some of the earliest virtual reality input devices were wired gloves, using fiber optics, conductive ink and mechanical sensors to determine the state of the users hands. \cite{boas13} Other, later developments were done with wands, like the Nintendo Wii motion-sensor controller or the Sony Move Controller. \cite{boas13} And another way to realise input is to use computer vision, by using 3D cameras that record infrared, or end user devices such as the Microsoft Kinect, or the Sony Playstation Eye. \cite{boas13}
+	Moving around naturally has proven difficult, however. While virtual reality demos often use a gamepad, it is less than ideal for upholding a sense of presence. The abstract translation from a analogue stick to moving oneself in virtual space, or interact with one's surroundings, is not very intuitive. \cite{ruddle13} Some of the earliest virtual reality input devices were wired gloves, using fiber optics, conductive ink and mechanical sensors to determine the state of the users hands. \cite{boas13} Other, later developments were done with "wands", like the Nintendo Wii motion-sensor controller or the Sony Move Controller. 
+
+	\begin{wrapfigure}{r}{0.5\textwidth}
+		\vspace{-10pt}
+		\begin{center}
+			\includegraphics[scale=0.1]{images/KinectSensor.png}
+		\end{center}			
+		\vspace{-20pt}
+			\caption{A Microsoft Kinect 3D Camera with infrared sensors}
+		\vspace{-10pt}
+	\end{wrapfigure}	
+	
+	\cite{boas13} And another way to realise input is to use computer vision, by using 3D cameras that record infrared, or end user devices such as the Microsoft Kinect, or the Sony Playstation Eye. \cite{boas13}
+	
+	
 	
 	\subsection{Applications of Virtual Reality}
 	Most virtual reality hardware developed at this time is geared towards the entertainment business, with a special focus on simulation software, such as flight simulators, and video games. %From Oculus Rift, over Sony's Project Morpheus to Vive by HTC and Valve.
+		\subsubsection{Serious Games}
 	Yet VR can also be used for more humanitarian ways or scientific studies. Games made for these purposes are called \emph{serious games}, and are being used to, for example, allow the user to examine scanned, centuries old manuscripts of which only one copy exists, at a virtual table. \cite{lorenzini2013serious}
 	
+		\subsubsection{Education}
 	Virtual reality can be used to visualize and teach subjects in ways that were inaccessible before. Teaching history by visiting locations or events of historical importance, for example. \cite{mosaker2001visualising}
 	
+		\subsubsection{Military}
 	Interest in virtual reality for training simulation purposes by the military is one of the most important one when it comes to investment and deployment. \cite{moshell1993three}
 	
+		\subsubsection{Medical Therapy}
 	Perhaps unexpected are the numerous ways virtual reality was found to be useful in medical treatments. From distracting patients from intense pain during treatments, by allowing them to feel like they are somewhere else \cite{hoffman14}, %over teaching walk-inhibited patients to walk again \cite{ruddle13}, 
 	to help patients with Diplopia (commenly known as lazy eye) to see three dimensionally again and potentially even improve their vision. \cite{blaha2014diplopia}
 
 \section{Discussion}
 With head-mounted displays, headphones and gloves, suspension of disbelief is easier than it ever has been before. All these technologies seem to work towards the same goal, to have total immersion without any barriers diminishing the feeling of presence.
 
-At the moment, there are still many of these barriers remaining. The lack of intuitive input devices, the small imperfections of current head-mounted displays, and not very far research of virtual reality software. However, total immersion is being reported by users to be reached at least most of the time. \cite{bastiaens14}
+At the moment, there are still many of these barriers remaining. The lack of intuitive input devices, the small imperfections of current head-mounted displays, and the lack of investigation of virtual reality software design. However, total immersion is being reported by users to be reached most of the time regardless. \cite{bastiaens14}
 
 \section{Conclusion}
-The level of immersion achievable by technology available today, namely the Oculus Rift Development Kit, is already enough to use virtual reality effectively already, as many studies and experiments have shown.
+The level of immersion achievable by technology available today, namely the Oculus Rift Development Kit, is already enough to use virtual reality effectively, as many studies and experiments have shown.
 
-Once the first VR headset is commercially released for end users, even more applications and developments are going to find new and innovative ways to use telepresence and total immersion in beneficial, innovative, or simply entertaining ways.
+Once the first VR headset is commercially released for end users, even more developers will create applications and drive developments that are going to find new and innovative possibilities to use telepresence and total immersion in beneficial, innovative, or simply entertaining ways.
 
 
 \bibliographystyle{plain}
